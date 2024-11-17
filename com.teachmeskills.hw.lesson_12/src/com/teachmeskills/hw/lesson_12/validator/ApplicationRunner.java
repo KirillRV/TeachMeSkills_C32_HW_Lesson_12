@@ -18,6 +18,6 @@ public class ApplicationRunner {
         System.out.println(HexColorValidator.isValidHexColor(HexColor));
 
         String URL = "https://teachmeskills.by/kursy/programmirovaniya-online";
-        System.out.println(url_validator.isValidURL(URL));
+        System.out.println(URL_validator.isValidURL(URL));
     }
 }

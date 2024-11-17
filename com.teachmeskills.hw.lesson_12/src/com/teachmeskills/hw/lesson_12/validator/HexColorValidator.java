@@ -1,5 +1,5 @@
 package com.teachmeskills.hw.lesson_12.validator;
-import com.teachmeskills.hw.lesson_12.Constants.Constants;
+import com.teachmeskills.hw.lesson_12.constants.Constants;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
